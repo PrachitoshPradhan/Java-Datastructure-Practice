@@ -1,0 +1,3 @@
+module FileIO {
+	requires junit;
+}
